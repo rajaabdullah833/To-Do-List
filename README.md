@@ -32,15 +32,15 @@ javac ToDoListApp.java
 java ToDoListApp
 ```
 ## Interacting with the To-Do List
-- **Adding Tasks: Enter the task details and assign a priority.
-- **Viewing Tasks: Lists all pending tasks with their status.
-- **Completing Tasks: Mark tasks as completed.
-- **Deleting Tasks: Remove tasks by selecting the task ID.
+- **Adding Tasks:** Enter the task details and assign a priority.
+- **Viewing Tasks:** Lists all pending tasks with their status.
+- **Completing Tasks:** Mark tasks as completed.
+- **Deleting Tasks:** Remove tasks by selecting the task ID.
 
 ## Project Structure
-- **src: Contains the Java source files.
-- **data: Stores saved task data files.
-- **README.md: This file.
+- **src:** Contains the Java source files.
+- **data:** Stores saved task data files.
+- **README.md:** This file.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
